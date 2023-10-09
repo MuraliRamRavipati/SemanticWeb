@@ -1,0 +1,10 @@
+backend.zip
+ProjectReport5.docx
+ProjectReport5.pdf
+ui.zip
+backend.zip
+
+backend/__pycache__
+backend/venv
+
+ui/node_modules
